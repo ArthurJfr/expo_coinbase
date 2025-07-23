@@ -12,7 +12,9 @@ Elle reproduit l’interface d’un portefeuille crypto inspirée de Coinbase, a
 
 Voici un aperçu de l’interface de l’application :
 
-![Aperçu de l’application](./assets/preview.png)
+<div align="center">
+  <img src="./assets/preview.png" alt="Aperçu de l’application" width="300" />
+</div>
 
 <!--
 Remplace `preview.png` par le nom de ton image d’aperçu si besoin.

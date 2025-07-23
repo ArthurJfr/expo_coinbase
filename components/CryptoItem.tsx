@@ -34,10 +34,8 @@ const styles = StyleSheet.create({
   title: { fontWeight: 'bold', fontSize: 16, marginBottom: 4 },
   container: { flexDirection: 'row', alignItems: 'center', padding: 12, justifyContent: 'space-around' },
   icon: { width: 32, height: 32, marginRight: 12 },
-  infoContainer: {
-    flex: 1,
-  },
-    name: { fontWeight: 'bold', fontSize: 16, marginBottom: 4 },
+  infoContainer: {flex: 1,},
+  name: { fontWeight: 'bold', fontSize: 16, marginBottom: 4 },
   symbol: { color: '#888' },
   price: { marginLeft: 'auto', fontWeight: 'bold' },
   priceContainer: {
@@ -54,7 +52,7 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
     marginTop: 4,
   },
-    graph: { width: 50, height: 32, resizeMode: 'contain' },
+    graph: { width: 80, height: 50, resizeMode: 'contain' },
   graphContainer: {
     flex: 1, // ou une largeur fixe si tu veux
     justifyContent: 'center',
